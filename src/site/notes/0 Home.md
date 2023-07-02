@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-home/","tags":["gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/0-home/","tags":["gardenEntry"]}
 ---
 
 # Introductory remarks
