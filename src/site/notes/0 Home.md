@@ -53,11 +53,6 @@ Of course, if you rely entirely on these computational tools (some of them offer
 // | // | // | // |  [[OLD/5.5 Exercises\|5.5 Exercises]] | //
 
 
-## Exams (with solutions)
-
-[[Partial exam 2022-10-12\|Partial exam 2022-10-12]]
-
-
 ## Technical notes 
 
 - The notes are written using [Obsidian for Linux](https://obsidian.md/) and deployed through [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/) by means of the [beautiful plugin](https://github.com/oleeskild/obsidian-digital-garden) by [oleeskild](https://github.com/oleeskild). 
