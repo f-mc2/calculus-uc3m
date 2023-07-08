@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-07-04T22:35:58.943+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-07-08T10:26:07.797+02:00"}
 ---
 
 # Introductory remarks
 
-This digital garden contains the notes for the course of Calculus for Robotics Engineering at the UC3M taught by [Florio M. Ciaglia](https://floriomciaglia.wordpress.com/) in the academic year 2022/2023. As such, they **will not** grant a full understanding of the concepts and ideas needed to pass the exam, so that it is always better to rely on the bibliographic references suggested in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2). Moreover, besides the exercises provided in this digital garden, it is warmly suggested to try as many exercises as possible from the bibliographic sources suggested in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2), from [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx) for one-variable functions - Calculus I, and from [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx) for multi-variable functions - Calculus II.
+This digital garden contains the notes for the course of Calculus for Robotics Engineering at the UC3M taught by [me](https://floriomciaglia.wordpress.com/) in the academic year 2023/2024. As such, they **do not** grant a full understanding of the concepts and ideas needed to pass the exam, so that it is always better to rely on the bibliographic references suggested in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2). Moreover, besides the exercises provided in this digital garden, it is warmly suggested to try as many exercises as possible from the bibliographic sources mentioned before, and from [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx) (for one-variable functions - Calculus I), and from [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx) (for multi-variable functions - Calculus II).
 
 ## Online resources
 
-In this digital era, a lot of incredibly useful resources are available out there in the web, and I will list now just a few of them. Of course, you are strongly encouraged to dive the web and find your own personal resources.
+In this digital era, a lot of useful resources are available out there in the web. Below there is a list of some of these resources I personally use. Of course, you are strongly encouraged to dive the web and find your own personal resources.
 
 ### Wikipedia (in English)
 
@@ -24,23 +24,22 @@ A useful website to consult in order to get additional explanations or help with
 
 ### LibreTexts Mathematics
 
-[This website](https://math.libretexts.org/Bookshelves
-) contains some textbooks on Mathematics that are completely free to access, contains exercises, and can be freely downloaded!
+[This website](https://math.libretexts.org/Bookshelves) contains some textbooks on Mathematics that are completely free to access, contains exercises, and can be freely downloaded!
 
 ### Youtube videos
 
-1) In general in life, you are stronlgy advised to check [3Blue1Brown's channel](https://www.youtube.com/c/3blue1brown/featured) because it contains beautiful videos explaining different concepts related to Mathematics and Physics in a clear and concise way using graphical animations that help conveying the message. In particular, I suggest the playlist [essence of Calculus](https://www.youtube.com/c/3blue1brown/playlists) for a nice introduction to one-variable calculus.
+1) In general in life, you are strongly advised to check [3Blue1Brown's channel](https://www.youtube.com/c/3blue1brown/featured) because it contains beautiful videos explaining different concepts related to mathematics and physics in a clear and concise way using graphical animations that help conveying the message. In particular, I suggest the playlist [essence of Calculus](https://www.youtube.com/c/3blue1brown/playlists) for a nice introduction to one-variable calculus.
 2) I did not have time to explore in detail [Trefor Bazett's Calculus playlists](https://www.youtube.com/c/DrTreforBazett/playlists), but I think it is another good place to start for having more graphical explanations of the arguments discussed in the course. 
 
 ### Tools to help with exercises
 
-Sometimes, it could be helpful to have check if some limit/derivative/integral we computed is actually correct. At this purpose, you can refer to the following online tools:
+Sometimes, it could be helpful to check if some limit/derivative/integral we computed is actually correct. At this purpose, you can refer to the following online tools:
   
-1) [here](https://onsolver.com/ ) you can compute derivatives, integrals, limits, sum of series and other things concerning scalar functions of one variable;  
-  2) [here](https://www.symbolab.com/solver/calculus-calculator ) you find also the option to deal with multivariable calculus (move the mouse over "Calculus", a window-menu will open and you'll find "multivariable calculus" there) and with local extrema;  
-  3) [here](https://www.wolframalpha.com/widgets/gallery/view.jsp?id=1451afdfe5a25b2a316377c1cd488883) you find Lagrange multipliers.
+1) [Here](https://onsolver.com/ ) you can compute derivatives, integrals, limits, sum of series and other things concerning scalar functions of one variable;  
+2) [Here](https://www.symbolab.com/solver/calculus-calculator ) you find also the option to deal with multivariable calculus (move the mouse over "Calculus", a window-menu will open and you'll find "multivariable calculus" there) and with local extrema;  
+ 3) [Here](https://www.wolframalpha.com/widgets/gallery/view.jsp?id=1451afdfe5a25b2a316377c1cd488883) you find Lagrange multipliers.
 
-Of course, if you rely entirely on these computational tools (some of them offer the possibilty to pay to get not only the answer but also the procedure) you will learn essentially nothing! Your own active hard work is the only thing that really helps you learning something.
+Of course, if you rely entirely on these computational tools (some of them offer the possibility to pay to get not only the answer but also the procedure), you will learn essentially nothing! Your own active hard work is the only thing that really helps you learning something.
 
 ## Table of contents
 
