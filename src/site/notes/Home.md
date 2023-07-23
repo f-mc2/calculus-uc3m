@@ -1,26 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-07-09T12:38:31.588+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-07-23T16:02:39.596+02:00"}
 ---
 
 # Introductory remarks
 
-This digital garden contains the notes for the course of Calculus for Robotics Engineering at the UC3M taught by [me](https://floriomciaglia.wordpress.com/) in the academic year 2023/2024. As such, they **do not** grant a full understanding of the concepts and ideas needed to pass the exam, so that it is always better to rely on the bibliographic references suggested in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2). Moreover, besides the exercises provided in this digital garden, it is warmly suggested to try as many exercises as possible from the bibliographic sources mentioned before, and from [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx) (for one-variable functions - Calculus I), and from [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx) (for multi-variable functions - Calculus II).
+This digital garden contains the notes for the course of Calculus for Robotics Engineering at the UC3M taught by [me](https://floriomciaglia.wordpress.com/) in the academic year 2023/2024. As such, they **do not** grant a full understanding of the concepts and ideas discussed in the course. Therefore, it is always better to rely on the bibliographic references suggested, for instance, in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2). Moreover, besides the exercises provided here, it is warmly suggested to try as many exercises as possible from the bibliographic sources mentioned before, from [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx), and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx) (for one-variable functions - Calculus I), and from [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx), and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx) (for multi-variable functions - Calculus II).
 
 ## Online resources
 
-In this digital era, a lot of useful resources are available out there in the web. Below there is a list of some of these resources I personally use. Of course, you are strongly encouraged to dive the web and find your own personal resources.
+In this digital era, a lot of useful resources are available out there in the web. Below there is a list of some of these resources I personally use. Of course, you are strongly encouraged to dive the web and find your own personal resources (and perhaps share them).
 
 ### Wikipedia (in English)
 
-It is almost impossible not to start this list from [Wikipedia (in English)](https://en.wikipedia.org/wiki/Main_Page). Whenever I encounter something new or I have a little doubt on something I should know, I consult Wikipedia together with the sources and further references. However, do not rely on it as your primary and sole reference for studying because this approach is not enough for academic study. 
+It is almost impossible not to start this list from [Wikipedia (in English)](https://en.wikipedia.org/wiki/Main_Page). Whenever I encounter something new or I have a little doubt on something I should know, I consult Wikipedia together with the sources and further references it provides. However, I would not recommend to rely on Wikipedia as your primary and sole reference for studying. 
 
 ### MATHEMATICS Stack Exchange
 
-A useful website to consult in order to get additional explanations or help with exercises in basically all fields of Mathematics is [MATHEMATICS Stack Exchange](https://math.stackexchange.com/). However, before asking a question there make sure to search in the website because it is very likely that other people have already asked the same question and already received good answers you may profit from. Moreover, if asking for help with an exercise, make sure to explain what you did and why you are stucked. That is, always try to solve exercises on your own and then ask for help. Bear in mind that you need to know some [basics of LaTeX](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) to write on [MATHEMATICS Stack Exchange](https://math.stackexchange.com/).
+A useful website to consult in order to get additional explanations or help with exercises in basically all fields of Mathematics is [MATHEMATICS Stack Exchange](https://math.stackexchange.com/). However, before asking a question there, make sure to search in the website for questions similar to the one you want to ask. Indeed, chances are that other people have already asked the same question, and they already received good answers you may profit from. Moreover, if asking for help with an exercise, make sure to explain what you did and why you are stucked. That is, always try to solve exercises on your own and then ask for help. Bear in mind that you need to know some [basics of LaTeX](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) to properly write mathematical expressions on [MATHEMATICS Stack Exchange](https://math.stackexchange.com/).
 
 ### Paul's Online Notes
 
-[This amazing website](https://tutorial.math.lamar.edu/) can be consulted for additional explanations, for additional studying material, as well as for additional exercises to practice with. Moreover, among other things, you can find some very useful [cheatsheets](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx) on algebra, trigonometry, and calculus.
+[This amazing website](https://tutorial.math.lamar.edu/) can be consulted for additional explanations/exercises, as a source of additional studying material, as well as for the simple fact that it is very nice to read. Moreover, among other things, you can find in it some very useful [cheatsheets](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx) on algebra, trigonometry, and calculus.
 
 ### LibreTexts Mathematics
 
@@ -28,7 +28,7 @@ A useful website to consult in order to get additional explanations or help with
 
 ### Youtube videos
 
-1) In general in life, you are strongly advised to check [3Blue1Brown's channel](https://www.youtube.com/c/3blue1brown/featured) because it contains beautiful videos explaining different concepts related to mathematics and physics in a clear and concise way using graphical animations that help conveying the message. In particular, I suggest the playlist [essence of Calculus](https://www.youtube.com/c/3blue1brown/playlists) for a nice introduction to one-variable calculus.
+1) In general in your life, you are strongly advised to check [3Blue1Brown's channel](https://www.youtube.com/c/3blue1brown/featured) because it contains beautiful videos explaining different concepts related to mathematics and physics in a clear and concise way, using graphical animations that help conveying the message. In particular, I suggest the playlist [essence of Calculus](https://www.youtube.com/c/3blue1brown/playlists) for a nice introduction to one-variable calculus.
 2) I did not have time to explore in detail [Trefor Bazett's Calculus playlists](https://www.youtube.com/c/DrTreforBazett/playlists), but I think it is another good place to start for having more graphical explanations of the arguments discussed in the course. 
 
 ### Tools to help with exercises
@@ -41,15 +41,6 @@ Sometimes, it could be helpful to check if some limit/derivative/integral we com
 
 Of course, if you rely entirely on these computational tools (some of them offer the possibility to pay to get not only the answer but also the procedure), you will learn essentially nothing! Your own active hard work is the only thing that really helps you learning something.
 
-## Table of contents
-
-**Introduction** | **Limits and continuity** | **Derivatives and extrema** | **Sequences and series** | **Multivariable calculus** | **Integration**
- ---|---|---| ---| ---| ---
- [[1.1 Sets and functions\|1.1 Sets and functions]] | [[1.2 Limits of scalar functions\|1.2 Limits of scalar functions]] | [[OLD/3.1 Derivatives and differentiability of real-valued functions of one real variable\|3.1 Derivatives and differentiability of real-valued functions of one real variable]]| [[OLD/4.1 Numerical sequences\|4.1 Numerical sequences]]| [[OLD/5.1 From 1 to many dimensions\|5.1 From 1 to many dimensions]]| [[OLD/6.1 Anti-derivative and integrals of scalar functions\|6.1 Anti-derivative and integrals of scalar functions]]
- [[OLD/1.2 Functions\|1.2 Functions]] | [[OLD/2.2 Properties of limits\|2.2 Properties of limits]] | [[OLD/3.2 Properties of derivatives\|3.2 Properties of derivatives]] | [[OLD/4.2 Numerical series\|4.2 Numerical series]] | [[OLD/5.2 Limits and continuity of multivariable vector functions\|5.2 Limits and continuity of multivariable vector functions]]| [[OLD/6.2 Double integrals\|6.2 Double integrals]]
- [[OLD/1.3 Real-valued functions of one real variable\|1.3 Real-valued functions of one real variable]] | [[2.3 Continuity\|2.3 Continuity]]| [[OLD/3.3 Local and global extrema\|3.3 Local and global extrema]]| [[OLD/4.3 Power series and the Taylor series\|4.3 Power series and the Taylor series]]|[[OLD/5.3 Derivatives and differentiability of multivariable vector functions\|5.3 Derivatives and differentiability of multivariable vector functions]]|[[OLD/6.3 Triple integrals\|6.3 Triple integrals]]
-[[OLD/1.4 Exercises\|1.4 Exercises]] | [[OLD/2.4 Exercises\|2.4 Exercises]]|[[OLD/3.4 Exercises\|3.4 Exercises]]|[[OLD/4.4 Exercises\|4.4 Exercises]]|[[OLD/5.4 Local and global extrema of multivariable scalar functions\|5.4 Local and global extrema of multivariable scalar functions]]|[[OLD/6.4 Exercises\|6.4 Exercises]]
-// | // | // | // |  [[OLD/5.5 Exercises\|5.5 Exercises]] | //
 
 
 ## Technical notes 
