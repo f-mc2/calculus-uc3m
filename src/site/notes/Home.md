@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-07-23T16:02:39.596+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-08-24T16:21:55.718+02:00"}
 ---
 
 # Introductory remarks
@@ -46,7 +46,7 @@ Of course, if you rely entirely on these computational tools (some of them offer
 ## Technical notes 
 
 - The notes are written using [Obsidian for Linux](https://obsidian.md/) and deployed through [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/) by means of the [beautiful plugin](https://github.com/oleeskild/obsidian-digital-garden) by [oleeskild](https://github.com/oleeskild). 
-- Unless otherwise specified, everything in this GitLab page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+- Unless otherwise specified, everything here is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 -  Please, notify me about comments/remarks/mistakes by sending me an email using my institutional address (which coincides with the address on the latest entry of my [arXiv page](https://arxiv.org/search/?searchtype=author&query=Ciaglia%2C+F+M)).
 
 
