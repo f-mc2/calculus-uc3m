@@ -1,13 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-08-29T16:31:45.784+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-08-31T19:04:42.850+02:00"}
 ---
 
 # Introductory remarks
 
 This digital garden contains the notes for the course of Calculus for Robotics Engineering at the UC3M taught by [me](https://floriomciaglia.wordpress.com/) in the academic year 2023/2024. The course is quite an unusual one because it aims at presenting the content of a Calculus I (~ scalar functions) and a Calculus II (~ multivariable functions) course together in a single course. 
 
-Let me close these introductory remarks by saying that the notes presented here **do not** grant a full understanding of the concepts and ideas discussed in the course. Therefore, it is always better to rely on the bibliographic references suggested, for instance, in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2). Moreover, besides the exercises provided here, it is warmly suggested to try as many exercises as possible from the bibliographic sources mentioned before, from [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx), and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx) (for one-variable functions - Calculus I), and from [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx), and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx) (for multi-variable functions - Calculus II).
+Let me close these introductory remarks by saying that the notes presented here **do not** grant a full understanding of the concepts and ideas discussed in the course. Therefore, it is always better to rely on the bibliographic references suggested, for instance, in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2) (see also [[Home#References\|below]]) . Moreover, besides the exercises provided here, it is warmly suggested to try as many exercises as possible from the bibliographic sources mentioned before, from [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx), and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx) (for one-variable functions - Calculus I), and from [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx), and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx) (for multi-variable functions - Calculus II).
 
+## References
+
+The following are the references which I believe provides the basic understanding necessary to pass the exam:
+
+- [Salas, Etgen, Hille - Calculus: One and Several Variables (tenth edition)](https://www.wiley.com/en-us/Calculus%3A+One+and+Several+Variables%2C+10th+Edition-p-9780471698043);
+- [Marsden, Tromba - Vector Calculus (sixth edition)](https://www.macmillanlearning.com/college/us/product/Vector-Calculus/p/1429215089).
+
+Additional references, for a deeper understanding and an overall better enjoyment of the beautiful subject Calculus is, are:
+
+- [Rudin - Principle of Mathematical Analysis (third edition)](https://en.wikipedia.org/wiki/Principles_of_Mathematical_Analysis);
+- [Spivak - Calculus (third/fourth edition)](https://mathpop.com/).
 
 # Online resources
 
