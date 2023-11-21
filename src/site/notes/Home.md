@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-09-15T16:29:16.068+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2023-04-24T15:22:21.822+02:00","updated":"2023-11-21T16:24:12.081+01:00"}
 ---
 
 # Introductory remarks
@@ -44,6 +44,10 @@ A useful website to consult in order to get additional explanations or help with
 
 1) In general in your life, you are strongly advised to check [3Blue1Brown's channel](https://www.youtube.com/c/3blue1brown/featured) because it contains beautiful videos explaining different concepts related to mathematics and physics in a clear and concise way, using graphical animations that help conveying the message. In particular, I suggest the playlist [essence of Calculus](https://www.youtube.com/c/3blue1brown/playlists) for a nice introduction to one-variable calculus.
 2) I did not have time to explore in detail [Trefor Bazett's Calculus playlists](https://www.youtube.com/c/DrTreforBazett/playlists), but I think it is another good place to start for having more graphical explanations of the arguments discussed in the course. 
+
+# FOSSEE Animations Mathematics
+
+[This website](https://math.animations.fossee.in/contents/calculus-of-several-variables) provides interesting (open source) visualizations of concepts from multivariable calculus.
 
 ## Tools to help with exercises
 
