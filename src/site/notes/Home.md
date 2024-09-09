@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-16T21:52:20.850+01:00","updated":"2024-09-09T17:25:30.224+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-16T21:52:20.850+01:00","updated":"2024-09-09T17:38:20.088+02:00"}
 ---
 
 # Introductory remarks
@@ -66,7 +66,7 @@ Of course, if you rely entirely on these computational tools (some of them offer
 
 # Technical notes 
 
-- The notes are written using [Obsidian for Linux](https://obsidian.md/) and deployed through [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/) by means of the [beautiful plugin](https://github.com/oleeskild/obsidian-digital-garden) by [oleeskild](https://github.com/oleeskild). 
+- The notes are written using [Obsidian for Linux](https://obsidian.md/) and deployed through [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/) by means of the beautiful plugin [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) by [oleeskild](https://github.com/oleeskild). 
 - Unless otherwise specified, everything here is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 -  Please, notify me about comments/remarks/mistakes/questions by creating an issue in the associated [Github repo](https://github.com/f-mc2/calculus-uc3m), or sending me an email using my institutional address (which coincides with the address on the latest entry of my [arXiv page](https://arxiv.org/search/?searchtype=author&query=Ciaglia%2C+F+M)).
 
