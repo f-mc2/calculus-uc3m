@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-16T21:52:20.850+01:00","updated":"2024-09-07T16:54:20.080+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-16T21:52:20.850+01:00","updated":"2024-09-09T17:25:30.224+02:00"}
 ---
 
 # Introductory remarks
 
-This digital garden contains the notes for the course of Calculus for Robotics Engineering at the UC3M taught by [me](https://floriomciaglia.wordpress.com/) in the academic year 2023/2024. The course is quite an unusual one because it aims at presenting the content of a Calculus I (~ scalar functions) and a Calculus II (~ multivariable functions) course together in a single course. 
+This digital garden contains the notes for the course of Calculus for Robotics Engineering at the UC3M taught by [me](https://floriomciaglia.wordpress.com/) in the academic years 2022/2023, 2023/2024, and 2024/2025. The course is quite an unusual one because it aims at presenting the content of a Calculus I (~ scalar functions) and a Calculus II (~ multivariable functions) course together in a single course. 
 
-Let me close these introductory remarks by saying that the notes presented here **do not** grant a full understanding of the concepts and ideas discussed in the course. Therefore, it is always better to rely on the bibliographic references suggested, for instance, in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2) (see also [[Home#References\|below]]) . Moreover, besides the exercises provided here, it is warmly suggested to try as many exercises as possible from the bibliographic sources mentioned before, from [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx), and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx) (for one-variable functions - Calculus I), and from [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx), and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx) (for multi-variable functions - Calculus II).
+The notes presented here **do not** grant a full understanding of the concepts and ideas discussed in the course. Therefore, it is always better to rely on the bibliographic references suggested in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2) for both theory and exercises (see [[Home#References\|below]]).
+
+Moreover, concerning exercises, I warmly suggest to collaborate with other students in solving exercises, and to try as many exercises as possible from as many sources as possible. For instance, additional exercises for one-variable functions (Calculus I) can be found [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx), while additional exercises for multi-variable calculus (Calculus II) can be found [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx).
 
 ## References
 
@@ -22,7 +24,7 @@ Additional references, for a deeper understanding and an overall better enjoymen
 
 # Online resources
 
-In this digital era, a lot of useful resources are available out there in the web. Below there is a list of some of these resources I personally use. Of course, you are strongly encouraged to dive the web and find your own personal resources (and perhaps share them).
+In this digital era, a lot of useful resources are available out there in the web. Below there is a list of some of the resources I personally use. Of course, you are strongly encouraged to explore the web and find your own personal resources (and perhaps share them).
 
 ## Wikipedia (in English)
 
@@ -42,7 +44,7 @@ A useful website to consult in order to get additional explanations or help with
 
 ## Youtube videos
 
-1) In general in your life, you are strongly advised to check [3Blue1Brown's channel](https://www.youtube.com/c/3blue1brown/featured) because it contains beautiful videos explaining different concepts related to mathematics and physics in a clear and concise way, using graphical animations that help conveying the message. In particular, I suggest the playlist [essence of Calculus](https://www.youtube.com/c/3blue1brown/playlists) for a nice introduction to one-variable calculus.
+1) In general in your life, you are strongly encouraged to check [3Blue1Brown's channel](https://www.youtube.com/c/3blue1brown/featured) because it contains beautiful videos explaining different concepts related to mathematics([on monsters and group theory](https://www.youtube.com/watch?v=mH0oCDa74tE)), physics ([a primer on Heisenberg's uncertainty principle](https://www.youtube.com/watch?v=MBnnXbOM5S4&list=PLZHQObOWTQDPHLHBuY0nPbAQ_WGEjtzLW&index=7)) and other things ([how does AI work?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [what is Bitcoin?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)), in a clear and engaging way, using amazing graphical animations that help conveying the message. In relation to the course, I suggest the playlist [essence of Calculus](https://www.youtube.com/c/3blue1brown/playlists) for a nice introduction to one-variable calculus.
 2) I did not have time to explore in detail [Trefor Bazett's Calculus playlists](https://www.youtube.com/c/DrTreforBazett/playlists), but I think it is another good place to start for having more graphical explanations of the arguments discussed in the course. 
 
 ## FOSSEE Animations Mathematics
