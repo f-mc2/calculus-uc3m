@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-16T21:52:20.850+01:00","updated":"2024-09-09T17:38:20.088+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-16T21:52:20.850+01:00","updated":"2024-09-24T09:59:07.356+02:00"}
 ---
 
 # Introductory remarks
@@ -17,10 +17,12 @@ The following are the references which I believe provides the basic understandin
 - [Salas, Etgen, Hille - Calculus: One and Several Variables (tenth edition)](https://www.wiley.com/en-us/Calculus%3A+One+and+Several+Variables%2C+10th+Edition-p-9780471698043);
 - [Marsden, Tromba - Vector Calculus (sixth edition)](https://www.macmillanlearning.com/college/us/product/Vector-Calculus/p/1429215089).
 
-Additional references, for a deeper understanding and an overall better enjoyment of the beautiful subject Calculus is, are:
+Additional references, for a deeper understanding and an overall better enjoyment of the beautiful subject Calculus (or better, Analysis) is, are:
 
 - [Rudin - Principle of Mathematical Analysis (third edition)](https://en.wikipedia.org/wiki/Principles_of_Mathematical_Analysis);
 - [Spivak - Calculus (third/fourth edition)](https://mathpop.com/).
+- [Tao - Analysis I (fourth edition)](https://link.springer.com/book/10.1007/978-981-19-7261-4)
+- [Tao - Analysis II (fourth edition)](https://link.springer.com/book/10.1007/978-981-19-7284-3)
 
 # Online resources
 
