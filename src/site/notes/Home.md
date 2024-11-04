@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-16T21:52:20.850+01:00","updated":"2024-09-24T09:59:07.356+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-09-25T11:16:33.908+02:00","updated":"2024-09-24T09:59:07.356+02:00"}
 ---
 
 # Introductory remarks
