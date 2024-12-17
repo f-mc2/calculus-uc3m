@@ -1,12 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-16T21:52:20.850+01:00","updated":"2024-09-24T09:59:07.356+02:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-09-25T11:16:33.908+02:00","updated":"2024-12-17T13:32:42.218+01:00"}
 ---
 
 # Introductory remarks
 
-This digital garden contains the notes for the course of Calculus for Robotics Engineering at the UC3M taught by [me](https://floriomciaglia.wordpress.com/) in the academic years 2022/2023, 2023/2024, and 2024/2025. The course is quite an unusual one because it aims at presenting the content of a Calculus I (~ scalar functions) and a Calculus II (~ multivariable functions) course together in a single course. 
+This digital garden contains the notes for the course of Calculus for Robotics Engineering at the [UC3M](https://www.uc3m.es/home) taught by [me](https://floriomciaglia.wordpress.com/) in the academic years 2022/2023, 2023/2024, and 2024/2025. The course is quite an unusual one because it aims at presenting the content of a Calculus I course (~ scalar functions) together with the content of a Calculus II course (~ multivariable functions) in a single course. Accordingly, none of the topics discussed here are explored with the care and focus they usually receive in more usual courses. Therefore, I collected some useful additional resources below ([[Home#References\|here]] and [[Home#Online resources\|here]]). 
 
-The notes presented here **do not** grant a full understanding of the concepts and ideas discussed in the course. Therefore, it is always better to rely on the bibliographic references suggested in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2) for both theory and exercises (see [[Home#References\|below]]).
+I am having fun with this course, and I think I will keep updating these notes even when I will stop teaching the course.
+
+Please, notify me about comments/remarks/mistakes/questions by creating an issue in the associated [Github repo](https://github.com/f-mc2/calculus-uc3m), or sending me an email using my institutional address (which coincides with the address on the latest entry of my [arXiv page](https://arxiv.org/search/?searchtype=author&query=Ciaglia%2C+F+M)).
+
+# Course-related stuff
+
+Studying only the notes presented here **DOES NOT** grant a full understanding of the concepts and ideas discussed in the course. Therefore, it is always better to rely on the bibliographic references suggested in the [_Ficha Reina_](https://aplicaciones.uc3m.es/cpa/generaFicha?est=381&plan=478&asig=19080&idioma=2) of the course for both theory and exercises (see [[Home#References\|below]]).
 
 Moreover, concerning exercises, I warmly suggest to collaborate with other students in solving exercises, and to try as many exercises as possible from as many sources as possible. For instance, additional exercises for one-variable functions (Calculus I) can be found [here](https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcI/CalcI.aspx), while additional exercises for multi-variable calculus (Calculus II) can be found [here](https://tutorial.math.lamar.edu/Problems/CalcII/CalcII.aspx) and [here](https://tutorial.math.lamar.edu/ProblemsNS/CalcII/CalcII.aspx).
 
@@ -70,7 +76,6 @@ Of course, if you rely entirely on these computational tools (some of them offer
 
 - The notes are written using [Obsidian for Linux](https://obsidian.md/) and deployed through [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/) by means of the beautiful plugin [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) by [oleeskild](https://github.com/oleeskild). 
 - Unless otherwise specified, everything here is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
--  Please, notify me about comments/remarks/mistakes/questions by creating an issue in the associated [Github repo](https://github.com/f-mc2/calculus-uc3m), or sending me an email using my institutional address (which coincides with the address on the latest entry of my [arXiv page](https://arxiv.org/search/?searchtype=author&query=Ciaglia%2C+F+M)).
 
 
 
